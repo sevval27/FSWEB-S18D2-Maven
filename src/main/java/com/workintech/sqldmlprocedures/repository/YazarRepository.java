@@ -1,6 +1,6 @@
 package com.workintech.sqldmlprocedures.repository;
 
-import com.workintech.sqldmlprocedures.entity.Tur;
+
 import com.workintech.sqldmlprocedures.entity.Yazar;
 import org.springframework.data.jpa.repository.JpaRepository;
 
